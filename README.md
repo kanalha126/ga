@@ -1,1 +1,1 @@
-# ga
+[{"n":"قلمرو هیولا","s":"+7","m":"https://hw18.cdn.asset.aparat.com/aparat-video/93f66f3b841e70d365eb28f778c3b70626569849-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc2ZWMwZTU4ZDRiZmU3MWZlODNjNGYxNmI2NjA5M2E2IiwiZXhwIjoxNjE2MTAwOTA2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.nHGz1Ec95ORRujjEHHYs0gX6-bNLj6eizRSy12vJ1NU"}]
